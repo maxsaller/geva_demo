@@ -11,7 +11,7 @@ discretization_method   craig
 ==============================
 
 === convergence parameters ===
-num_of_trajectories     10000
+num_of_trajectories     2000
 num_of_time-steps       1500
 time-step_duration      0.01
 integrator_type         diag

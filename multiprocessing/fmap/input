@@ -1,0 +1,24 @@
+===== system parameters ======
+electronic_states       2
+nuclear_dofs            36
+energy_bias             1.0
+coupling                1.0
+kondo_parameter         0.2
+cutoff_frequency        2.5
+maximum_frequency       10.0
+inverse_temperature     10.0
+discretization_method   craig
+==============================
+
+=== convergence parameters ===
+num_of_trajectories     10000
+num_of_time-steps       1500
+time-step_duration      0.01
+integrator_type         diag
+==============================
+
+===== method parameters ======
+A-operator_type_C_AB    seo
+B-operator_type_C_AB    wigner
+electronic_sampling     phi
+==============================
